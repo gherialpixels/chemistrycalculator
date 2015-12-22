@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1450531493 source:c:\users\sabastian\desktop\coding\chemistrycalculator\calculations.cpp
+	<iostream>
+	<string>
+	"constants.h"
+
+1450523287 c:\users\sabastian\desktop\coding\chemistrycalculator\constants.h
+
+1450531045 source:c:\users\sabastian\desktop\coding\chemistrycalculator\main.cpp
+	<iostream>
+	"user.h"
+
+1450531132 c:\users\sabastian\desktop\coding\chemistrycalculator\user.h
+
+1450531493 source:c:\users\sabastian\desktop\coding\chemistrycalculator\user.cpp
+	<iostream>
+	<string>
+	"calculations.h"
+
+1450526997 c:\users\sabastian\desktop\coding\chemistrycalculator\calculations.h
+
+1450805236 source:c:\users\sabastian\documents\temp\coding\chemistrycalculator\calculations.cpp
+	<iostream>
+	<string>
+	"constants.h"
+
+1450805295 c:\users\sabastian\documents\temp\coding\chemistrycalculator\constants.h
+
+1450804215 source:c:\users\sabastian\documents\temp\coding\chemistrycalculator\main.cpp
+	<iostream>
+	"user.h"
+	"conversion.h"
+	<string>
+
+1450721152 c:\users\sabastian\documents\temp\coding\chemistrycalculator\user.h
+
+1450805236 source:c:\users\sabastian\documents\temp\coding\chemistrycalculator\conversion.cpp
+	<iostream>
+	<string>
+
+1450805236 source:c:\users\sabastian\documents\temp\coding\chemistrycalculator\user.cpp
+	<iostream>
+	<string>
+	"calculations.h"
+	"conversion.h"
+
+1450805236 c:\users\sabastian\documents\temp\coding\chemistrycalculator\calculations.h
+
+1450644059 c:\users\sabastian\documents\temp\coding\chemistrycalculator\conversion.h
+
